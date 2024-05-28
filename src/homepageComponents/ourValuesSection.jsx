@@ -8,6 +8,9 @@ function OurValues() {
                 <p>OUR VALUE</p>
                 <h1>Experience the Benefit of Choosing Landi</h1>
             </div>
+            <div className="value-banner">
+
+            </div>
             <div className="values-first">
                 <div className="first-img"></div>
 

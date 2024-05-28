@@ -1,0 +1,190 @@
+
+.about-banner {
+    width: 100%;
+    height: 500px;
+}
+
+.sub-banner {
+    width: 50%;
+    height: 400px;
+    color: white;
+    background: #171717;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-banner h1 {
+    font-size: 60px;
+}
+
+.sub-banner p {
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.about-hero {
+    margin-top: 80px;
+    padding: 20px 120px;
+}
+
+.a-hero-top {
+    display: flex;
+}
+
+.a-hero-t-left {
+    width: 50%;
+    padding: 80px 30px;
+}
+
+.a-hero-t-left p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.a-hero-t-left h1 {
+    font-size: 55px;
+    color: black;
+}
+
+.a-hero-t-right {
+    width: 50%;
+    background: #6F2F6F;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fit {
+    width: 75%;
+    font-size: 21px;
+}
+
+.a-hero-bottom {
+    width: 100%;
+    height: 500px;
+    background: url("https://pagupone.tokotema.com/wp-content/uploads/2023/01/view-of-living-room-interior-of-a-modern-house-2022-06-11-04-48-41-utc-1-min-768x363.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -50px;
+}
+
+.team {
+    margin-top: 50px;
+    padding: 20px 120px;
+}
+
+.team-top {
+    width: 100%;
+    display: flex;
+    align-items: last baseline;
+}
+
+.t-top-left {
+    width: 50%;
+}
+
+.t-top-right {
+    width: 50%;
+}
+
+.t-top-left p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.t-top-left h1 {
+    font-size: 60px;
+    color: black;
+    margin-top: 20px;
+}
+.t-top-right p {
+    font-size: 19px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+
+.team-bottom {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 60px;
+}
+
+.team-box {
+    width: 100%;
+}
+
+.team-pic {
+    width: 100%;
+    height: 400px;
+    background: url("https://pagupone.tokotema.com/wp-content/uploads/2023/01/senior-man-looking-at-camera-2022-11-24-22-00-05-utc-1-min.jpg");
+    background-size: cover;
+}
+
+.t-pic2 {
+    background: url("https://pagupone.tokotema.com/wp-content/uploads/2023/01/charming-asian-woman-working-at-the-office-using-a-2022-10-03-22-29-30-utc-1.jpg");
+    background-size: cover;
+}
+
+.t-pic3 {
+    background: url("https://pagupone.tokotema.com/wp-content/uploads/2023/01/engineer-man-or-technician-act-of-arms-crossed-wit-2022-08-23-14-43-51-utc-1.jpg");
+    background-size: cover;
+}
+
+.team-info {
+    padding: 30px 20px;
+    background: #eee;
+}
+
+.team-info h2 {
+    font-size: 34px;
+    font-weight: 600;
+    color: black;
+}
+
+.team-info p {
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.6;
+    margin-top: 8px;
+}
+
+.team-socials {
+    display: flex;
+    align-items: center;
+}
+
+.social-1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    background: #466F6D;
+    color: white;
+    font-size: 24px;
+}
+
+.social-2 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    color: white;
+    background: #538482;
+}
+
+.social-3 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    background: #689998;
+    color: white;
+}

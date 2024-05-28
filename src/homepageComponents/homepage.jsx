@@ -6,6 +6,8 @@ import VideoSection from "./videoSection";
 import InvestmentOption from "./investmentOptions";
 import OurValues from "./ourValuesSection";
 import Testimonials from "./testimonialSection";
+import HowItWorks from "./howItWorks";
+import ContactUs from "./contactUs";
 
 
 function Homepage() {
@@ -18,6 +20,8 @@ function Homepage() {
            <InvestmentOption />
            <OurValues />
            <Testimonials />
+           <HowItWorks />
+           <ContactUs />
         </div>
     )
 }
